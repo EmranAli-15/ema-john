@@ -16,3 +16,11 @@ nav.header a{
 nav.header a:hover{
     color: orange;
 }
+.user-email{
+    color: rgb(50, 175, 39);
+    margin-left: 20px;
+}
+.user-email button{
+    padding: 0;
+    font-weight: 100;
+}
